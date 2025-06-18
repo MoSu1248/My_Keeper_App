@@ -17,20 +17,13 @@ function CreateArea({onAdd}) {
 
   }
 
-  
   function submitNote(event) {
     event.preventDefault();
     onAdd({ ...note }); 
     setNote({ title: "", content: "" }); 
   }
   
-  
-  
   return (
-
-    
-  
-
     <div>
       <form>
         <input name="title" placeholder="Title" value={note.title} onChange={handleChange}/>
