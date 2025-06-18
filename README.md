@@ -15,25 +15,8 @@ React – Frontend UI
 
 Vite – Build tool for blazing fast development
 
-[CSS Modules / Tailwind (optional)] – Styling
+[CSS Modules] – Styling
 
-📂 Project Structure
-css
-Copy
-Edit
-keeper-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Note.jsx
-│   │   └── CreateArea.jsx
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
 🛠️ Installation & Running Locally
 Clone the repository
 
