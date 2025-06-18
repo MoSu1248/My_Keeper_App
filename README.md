@@ -40,7 +40,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/keeper-app.git
+git clone https://github.com/MoSu1248/My_Keeper_App.git
 cd keeper-app
 Install dependencies
 
